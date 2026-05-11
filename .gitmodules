@@ -1,3 +1,3 @@
 [submodule "submodules/backend"]
 	path = submodules/backend
-	url = https://github.com/cethefi/tei-corpus-backend.git
+	url = https://github.com/cethefi/tei-corpus-dashboard-backend.git
